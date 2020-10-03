@@ -2,12 +2,10 @@ using System;
 
 namespace HelloWorldApp { 
 
-	class HelloWorld { 
-		
-		// Main Method 
+	class HelloWorld {
 		static void Main(string[] args) {
-      Console.WriteLine("Hello World!");
-      Console.ReadKey(); 
+			Console.WriteLine("Hello World!");
+			Console.ReadKey(); 
 		} 
 	} 
 } 
